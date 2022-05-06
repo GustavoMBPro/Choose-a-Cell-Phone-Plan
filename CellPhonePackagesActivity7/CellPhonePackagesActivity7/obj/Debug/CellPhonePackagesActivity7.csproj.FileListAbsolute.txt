@@ -1,0 +1,25 @@
+C:\Users\Gusta\source\repos\CellPhonePackagesActivity7\CellPhonePackagesActivity7\bin\Debug\CellPhonePackagesActivity7.exe.config
+C:\Users\Gusta\source\repos\CellPhonePackagesActivity7\CellPhonePackagesActivity7\bin\Debug\CellPhonePackagesActivity7.exe
+C:\Users\Gusta\source\repos\CellPhonePackagesActivity7\CellPhonePackagesActivity7\bin\Debug\CellPhonePackagesActivity7.pdb
+C:\Users\Gusta\source\repos\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.csproj.AssemblyReference.cache
+C:\Users\Gusta\source\repos\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.FormCellPhonePackages.resources
+C:\Users\Gusta\source\repos\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.FormIndividualPlan.resources
+C:\Users\Gusta\source\repos\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.Properties.Resources.resources
+C:\Users\Gusta\source\repos\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.csproj.GenerateResource.cache
+C:\Users\Gusta\source\repos\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\source\repos\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.exe
+C:\Users\Gusta\source\repos\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.pdb
+C:\Users\Gusta\source\repos\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.FormFamilyPlan.resources
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 7\Gustavo_MarinBorges_Activity7\CellPhonePackagesActivity7\CellPhonePackagesActivity7\bin\Debug\CellPhonePackagesActivity7.exe.config
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 7\Gustavo_MarinBorges_Activity7\CellPhonePackagesActivity7\CellPhonePackagesActivity7\bin\Debug\CellPhonePackagesActivity7.exe
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 7\Gustavo_MarinBorges_Activity7\CellPhonePackagesActivity7\CellPhonePackagesActivity7\bin\Debug\CellPhonePackagesActivity7.pdb
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 7\Gustavo_MarinBorges_Activity7\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.csproj.AssemblyReference.cache
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 7\Gustavo_MarinBorges_Activity7\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.FormCellPhonePackages.resources
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 7\Gustavo_MarinBorges_Activity7\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.FormIndividualPlan.resources
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 7\Gustavo_MarinBorges_Activity7\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.FormFamilyPlan.resources
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 7\Gustavo_MarinBorges_Activity7\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.Properties.Resources.resources
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 7\Gustavo_MarinBorges_Activity7\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.csproj.GenerateResource.cache
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 7\Gustavo_MarinBorges_Activity7\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 7\Gustavo_MarinBorges_Activity7\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.exe
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 7\Gustavo_MarinBorges_Activity7\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.pdb
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 7\Gustavo_MarinBorges_Activity7\CellPhonePackagesActivity7\CellPhonePackagesActivity7\obj\Debug\CellPhonePackagesActivity7.csproj.SuggestedBindingRedirects.cache
